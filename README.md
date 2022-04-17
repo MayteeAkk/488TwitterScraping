@@ -74,3 +74,5 @@
 			i. 25 km
 			ii. 100 km
 		b. No Location
+	16. GraduateHotels
+	
